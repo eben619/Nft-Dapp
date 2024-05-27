@@ -44,7 +44,7 @@ Further Information:
     Frontend: The user interface is built using modern web development frameworks and libraries, providing a user-friendly experience for interacting with the smart contract.
     Documentation: Additional documentation and tutorials may be available within the repository or linked from this README file.
 
-# React + Vite
+# React + Vite 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
