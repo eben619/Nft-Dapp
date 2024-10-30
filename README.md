@@ -1,4 +1,4 @@
-This DApp empowers you to mint, buy, and sell NFTs on the Ethereum blockchain. Explore a world of digital collectibles, connect with creators, and participate in a vibrant NFT community.
+This DApp empowers you to mint, buy, and sell NFTs on the Ethereum blockchain. Explore a world of digital collectibles, connect with creators, and participate in a vibrant NFT community
 
 Key Features:
 
